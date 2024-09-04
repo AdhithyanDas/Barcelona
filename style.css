@@ -1,0 +1,479 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+}
+
+.first-page{
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-image: url(./Images/barca.jpg);
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.first-page{
+    background-image: url(./Images/barca.jpg);
+}
+
+.main{
+    background-color: rgba(0, 0, 0, 0.686);
+    height: 740px;
+    width: 100%;
+    position: absolute;
+}
+.main-head{
+    position: absolute;
+    top: 175px;
+    left: 340px;
+    color: white;
+    font-size: 70px;
+    font-family: sans-serif;
+}
+
+.para-1{
+    color: rgb(184, 191, 253);
+    font-size: 20px;
+    position: absolute;
+    top: 415px;
+    left: 345px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn-1{
+    background-color: white;
+    color: black;
+    width: 140px;
+    left: 345px;
+    border: none;
+}
+
+.btn-2{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+    left: 495px;
+    width: 140px;
+}
+
+.btn-1,.btn-2{
+    font-size: 18px;
+    height: 49px;
+    font-family: cursive;
+    font-weight: bolder;
+    position: absolute;
+    border-radius: 8px;
+    top: 510px;
+}
+
+
+
+.second-page{
+    background-image: url(./Images/cup.png);
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+.cup{
+    background-color: rgba(0, 0, 0, 0.686);
+    height: 740px;
+    width: 100%;
+    position: absolute;
+}
+
+.second-head{
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    position: relative;
+    top: 150px;
+    text-align: center;
+}
+
+.second-sub-head-1,.second-sub-head-2{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    top: 220px;
+}
+
+.second-sub-head-1{
+    position: absolute;
+    left: 380px;
+}
+
+.second-sub-head-2{
+    position: absolute;
+    left: 885px;
+}
+
+.para-2{
+    position: absolute;
+    top: 315px;
+    left: 380px;
+}
+
+.para-3{
+    position: absolute;
+    top: 315px;
+    left: 885px;
+}
+
+.para-2,.para-3{
+    color: rgb(172, 180, 248);
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+}
+
+
+
+.third-page{
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-image: url(./Images/msn.png);
+}
+
+.msn{
+    height: 740px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.686);
+    position: absolute;
+}
+
+.third-head{
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+
+.para-4,.para-5,.para-6,.para-7,.para-8{
+    color: rgb(172, 180, 248);
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+}
+
+.para-4{
+    position: absolute;
+    top: 250px;
+    left: 230px;
+}
+
+.para-5{
+    position: absolute;
+    top: 300px;
+    left: 230px;
+}
+
+.para-6{
+    position: absolute;
+    top: 350px;
+    left: 230px;
+}
+
+.para-7{
+    position: absolute;
+    top: 400px;
+    left: 230px;
+}
+
+.para-8{
+    position: absolute;
+    top: 480px;
+    left: 230px;
+}
+
+
+
+.fourth-page{
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-image: url(./Images/realvsbarca.png);
+}
+
+.realvsbarca{
+    height: 740px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.686);
+    position: absolute;
+}
+
+.fourth-head{
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+.para-9,.para-10,.para-11,.para-12{
+    color: rgb(172, 180, 248);
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+}
+
+.para-9{
+    position: absolute;
+    top: 220px;
+    left: 210px;
+}
+
+.para-10{
+    position: absolute;
+    top: 300px;
+    left: 210px;
+}
+
+.para-11{
+    position: absolute;
+    top: 380px;
+    left: 210px;
+}
+
+.para-12{
+    position: absolute;
+    top: 460px;
+    left: 210px;
+}
+
+
+
+.fifth-page{
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-image: url(./Images/comeback.webp);
+}
+
+.comeback{
+    height: 740px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.686);
+    position: absolute;
+}
+
+.fifth-head{
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    top: 250px;
+}
+
+.para-13,.para-14{
+    color: rgb(172, 180, 248);
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+}
+
+.para-13{
+    position: absolute;
+    top: 350px;
+    left: 250px;
+}
+
+.para-14{
+    position: absolute;
+    top: 460px;
+    left: 250px;
+}
+
+
+
+.sixth-page{
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-image: url(./Images/camp\ nou.jpg);
+}
+
+.campNou{
+    height: 740px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.686);
+    position: absolute;
+}
+
+.sixth-head{
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    top: 110px;
+}
+
+.sixth-sub-head-1,.sixth-sub-head-2,.sixth-sub-head-3{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 170px;
+}
+
+.sixth-sub-head-1{
+    top: 200px;
+}
+
+.sixth-sub-head-2{
+    top: 300px;
+}
+
+.sixth-sub-head-3{
+    top: 400px;
+}
+
+.para-15,.para-16,.para-17{
+    color: rgb(172, 180, 248);
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+}
+
+.para-15{
+    position: absolute;
+    top: 280px;
+    left: 170px;
+}
+
+.para-16{
+    position: absolute;
+    top: 380px;
+    left: 170px;
+}
+
+.para-17{
+    position: absolute;
+    top: 480px;
+    left: 170px;
+}
+
+
+
+.seventh-page{
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-image: url(./Images/lamasia.png);
+}
+
+.la-masia{
+    height: 740px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.686);
+    position: absolute;
+}
+
+.seventh-head{
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    top: 200px;   
+}
+
+.para-18{
+    color: rgb(172, 180, 248);
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+    position: absolute;
+    top: 330px;
+    left: 250px;
+}
+
+
+
+
+.eightth-page{
+    height: 740px;
+    width: 100%;
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-image: url(./Images/future.jpg);
+}
+
+.future{
+    height: 740px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.686);
+    position: absolute;
+}
+
+.eightth-head{
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    top: 140px;   
+}
+
+.eightth-sub-head-1,.eightth-sub-head-2,.eightth-sub-head-3{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 220px;    ;
+}
+
+.eightth-sub-head-1{
+    top: 220px;
+}
+
+.eightth-sub-head-2{
+    top: 320px;
+}
+
+.eightth-sub-head-3{
+    top: 420px;
+}
+
+.para-19,.para-20,.para-21{
+    color: rgb(172, 180, 248);
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+    position: absolute;
+    left: 220px;
+}
+
+.para-19{
+    top: 300px;
+}
+
+.para-20{
+    top: 400px;
+}
+
+.para-21{
+    top: 500px;
+}
